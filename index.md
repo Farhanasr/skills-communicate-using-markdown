@@ -1,3 +1,5 @@
 # Hello
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-var myVar = "Hi, how are you?";
+``` javascript
+var myVar = "Hi, how areyou?";
+```
